@@ -28,7 +28,7 @@ It’s designed to be easily readable by both technical and non-technical team m
 Gherkin uses a specific syntax with keywords like Given, When, Then, And, and But to describe scenarios and steps in a test.
 Gherkin scenarios are often written in plain text and describe the expected behavior of a feature in a user-friendly way.
 
-# Here’s a simple example of a Gherkin scenario for testing the login functionality of a website:
+## Here’s a simple example of a Gherkin scenario for testing the login functionality of a website:
 
         Feature: User Login
 
@@ -154,6 +154,9 @@ You can run the test case from the command line or Cypress runner. We will execu
 2. The above command will open the Cypress test runner with the existing test cases. From Cypress runner, we can select the browser you want to run the test cases.
 
 3. In the below screenshot, we can see both test case .feature files displaying in the Cypress test runner.
+
+![Alt text](image-4.png)
+
 
 
 # Execute the test case
